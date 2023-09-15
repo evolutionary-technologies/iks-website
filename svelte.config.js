@@ -13,7 +13,9 @@ const dev = "production" === "development";
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
 	kit: {
-		adapter: adapter(),
+		adapter: adapter({
+			pages: './src/routes',
+		}),
 		prerender: {
 			handleHttpError: 'warn'
 		},

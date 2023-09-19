@@ -7,21 +7,19 @@ import rehypeSlug from 'rehype-slug';
 import rehypeAutolinkHeadings from 'rehype-autolink-headings';
 
 const extensions = ['.svelte', '.md'];
-const dev = "production" === "development";
+const dev = process.argv.includes('dev');
 
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
 	kit: {
-		adapter: adapter({
-			pages: './src/routes',
-		}),
+		adapter: adapter(),
+		paths: {
+			base: dev ? '' : process.env.BASE_PATH,
+		},
 		prerender: {
 			handleHttpError: 'warn'
-		},
-		paths: {
-			base: dev ? '' : '/iks-website',
-		},
+		}
 	},
 	preprocess: [
 		vitePreprocess(),

@@ -22,7 +22,7 @@
 	<div class="image">
 		<Image
 			src="/images/sample-image.png"
-			alt="Sample for the static template"
+			alt="Logo"
 		/>
 	</div>
 </section>

@@ -21,7 +21,7 @@
 	</div>
 	<div class="image">
 		<Image
-			src= "../static/images/sample-image.png"
+			src= "../images/sample-logo.png"
 			alt=""
 		/>
 	</div>

@@ -21,8 +21,8 @@
 	</div>
 	<div class="image">
 		<Image
-			src= "iks-website/static/images/sample-image.png"
-			alt="Logo"
+			src= "../static/images/sample-image.png"
+			alt=""
 		/>
 	</div>
 </section>

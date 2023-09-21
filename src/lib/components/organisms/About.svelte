@@ -21,7 +21,7 @@
 	</div>
 	<div class="image">
 		<Image
-			src= "../../../../../static/images/sample-logo.png"
+			src= "$static/images/sample-logo.png"
 			alt=""
 		/>
 	</div>

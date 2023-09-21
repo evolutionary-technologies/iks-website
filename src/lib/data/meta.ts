@@ -18,4 +18,4 @@ export const description =
 
 export const title = 'IKS Studio Services';
 
-export const image = `${siteBaseUrl}/images/sample-image.png`;
+export const image = `${siteBaseUrl}/images/sample-logo.png`;

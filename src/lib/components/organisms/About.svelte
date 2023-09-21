@@ -21,7 +21,7 @@
 	</div>
 	<div class="image">
 		<Image
-			src="/images/sample-image.png"
+			src= "iks-website/static/images/sample-image.png"
 			alt="Logo"
 		/>
 	</div>

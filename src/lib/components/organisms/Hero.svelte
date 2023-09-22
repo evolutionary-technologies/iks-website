@@ -14,7 +14,7 @@
 	</p>
 	<div class="ctas">
 		<!-- <Sparkles> -->
-			<Button href="/blog">
+			<Button href="/iks-website/blog">
 				<EmailIcon slot="icon" />
 				Qet a Quote
 			</Button>

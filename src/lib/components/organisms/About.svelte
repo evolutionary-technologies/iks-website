@@ -8,7 +8,7 @@
 <section id="about">
 	<div class="info">
 		<h2>
-			Guranteeing the best drivers and equipment! <br />
+			Guranteed the best drivers and equipment! <br />
 			<!-- <SparklingHighlight color="secondary">sparkles!</SparklingHighlight> -->
 		</h2>
 		<p>

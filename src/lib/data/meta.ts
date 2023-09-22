@@ -18,4 +18,4 @@ export const description =
 
 export const title = 'IKS Studio Services';
 
-export const image = `${siteBaseUrl}/images/sample-logo.png`;
+export const image = `${siteBaseUrl}_app/immutable/assets/sample-logo.76d281c3.png`;

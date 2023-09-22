@@ -21,10 +21,7 @@
 		</div>
 	</div>
 	<div class="image">
-		<Image
-			src={Logo}
-			alt="Logo"
-		/>
+		<img src={Logo} alt="Logo">
 	</div>
 </section>
 

@@ -2,6 +2,7 @@
 	// import SparklingHighlight from '$lib/components/molecules/SparklingHighlight.svelte';
 	import Socials from '$lib/components/molecules/Socials.svelte';
 	import Image from '../atoms/Image.svelte';
+	import Logo from '$lib/images/sample-logo.png';
 </script>
 
 <section id="about">
@@ -21,7 +22,7 @@
 	</div>
 	<div class="image">
 		<Image
-			src="/images/logo/sample-logo.png?url"
+			src={Logo}
 			alt="Logo"
 		/>
 	</div>

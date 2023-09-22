@@ -21,8 +21,8 @@
 	</div>
 	<div class="image">
 		<Image
-			src="/build/images/logo/sample-logo.png"
-			alt=""
+			src="/images/logo/sample-logo.png?url"
+			alt="Logo"
 		/>
 	</div>
 </section>

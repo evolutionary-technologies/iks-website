@@ -4,7 +4,7 @@ export default [
   {
     name: 'Celebrity Trailers',
     description:'The New Standard in American Celebrity Trailers',
-    image: 'images/features/43ft-5-Slide-5th-Wheel-Trailer.png',
+    image: '/src/lib/images/features/43ft-5-Slide-5th-Wheel-Trailer.png',
     tags: [{ label: 'Celebrity trailers' }]
   }, 
   // {

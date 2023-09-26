@@ -2,7 +2,7 @@
 	// import SparklingHighlight from '$lib/components/molecules/SparklingHighlight.svelte';
 	import Socials from '$lib/components/molecules/Socials.svelte';
 	import Image from '../atoms/Image.svelte';
-	import Logo from '$lib/images/sample-logo.png';
+	import Logo from '$lib/images/logo/logo.png';
 </script>
 
 <section id="about">

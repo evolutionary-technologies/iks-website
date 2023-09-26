@@ -1,9 +1,9 @@
 @import '$lib/scss/_mixins.scss';
 
 @mixin base-theme {
-	@include define-color('primary', #0FBA81);
+	@include define-color('primary', #698923);
 	@include define-color('primary-shade', #b28cf2);	
-	@include define-color('primary-tint', #f9f6fe);
+	@include define-color('primary-tint', #698923);
 
 	@include define-color('secondary', #ff571a);
 	@include define-color('secondary-shade', #ffa280);
@@ -29,7 +29,7 @@
 	@include define-color('callout-background--error', #ffe8e8);
 	@include define-color('callout-accent--error', #f95256);
 	@include define-color('callout-background--success', #dcf7ec);
-	@include define-color('callout-accent--success', #009f70);
+	@include define-color('callout-accent--success', #4a592a);
 
 	// Used for Code Block component
 	@include define-color('code-background', #1c1e26);
@@ -45,9 +45,9 @@
 }
 
 @mixin dark-theme {
-	@include define-color('primary', #0FBA81);
+	@include define-color('primary', #698923);
 	@include define-color('primary-shade', #4612A1);	
-	@include define-color('primary-tint', #231934);
+	@include define-color('primary-tint', #698923);
 
 	@include define-color('secondary', #ff723f);
 	@include define-color('secondary-shade', #AB3307);

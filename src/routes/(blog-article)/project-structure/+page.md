@@ -3,7 +3,7 @@ slug: project-structure
 title: Hair & Makeup Trailers
 date: 2023-04-22T21:55:21.800Z
 excerpt: Hair & Makeup Trailers rentals.
-coverImage: /src/lib/images/posts/hair_makeup.webp
+coverImage: /images/posts/hair_makeup.webp
 tags:
   - Hair & Makeup Trailers
 ---

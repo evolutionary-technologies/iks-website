@@ -3,7 +3,7 @@ slug: customization
 title: Grip & Lighting Equipment
 date: 2023-04-22T21:55:27.154Z
 excerpt: Quality production equipment rentals for your filming needs.
-coverImage: /src/lib/images/posts/grip_lighting.webp
+coverImage: /images/posts/grip_lighting.webp
 tags:
   - Grip & Lighting Equipment
 ---

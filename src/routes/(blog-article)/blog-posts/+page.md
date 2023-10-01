@@ -1,7 +1,7 @@
 ---
 title: Celebrity Fifth Wheel
 slug: blog-posts
-coverImage: /src/lib/images/features/43ft-5-Slide-5th-Wheel-Trailer.png
+coverImage: /images/features/43ft-5-Slide-5th-Wheel-Trailer.png
 date: 2023-04-22T21:55:15.361Z
 excerpt: Choose from our selection of Celebrity Fifth Wheel trailers.
 tags:

@@ -1,13 +1,12 @@
 import type { Feature } from "$lib/utils/types";
-import image from '$lib/images/features/43ft-5-Slide-5th-Wheel-Trailer.png';
 
 export default [ 
   {
     name: 'Celebrity Trailers',
     description:'The New Standard in American Celebrity Trailers',
-    image: image,
+    image: '/images/features/43ft-5-Slide-5th-Wheel-Trailer.png',
     tags: [{ label: 'Celebrity trailers' }]
-  }, 
+  },
   // {
   //   name: 'Themeable',
   //   description:
